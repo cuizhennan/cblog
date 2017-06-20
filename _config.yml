@@ -70,4 +70,5 @@ theme: maupassant
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: 
+  repo: git@github.com:cuizhennan/cuizhennan.github.io.git 
+  branch: master
