@@ -5,14 +5,14 @@
 # Site
 title: 墨萧
 subtitle: 大肚能容容天下可容之事，笑口常开笑天下可笑之人。
-description:
+description: 
 author: Gavin
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.monkeycoding.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
